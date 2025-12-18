@@ -1,12 +1,3 @@
-### Picture Puzzle
-
-Visit [Picture Puzzle](https://picture-puzzle-reactjs.netlify.app) which is hosted in Netlify
-
-### Website link
-<p>
- <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://picture-puzzle-reactjs.netlify.app" alt="Picture Puzzle website link"/> 
-</p>
- 
 ### To run in local
 
 `npm start`
